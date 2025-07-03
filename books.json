@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "price": 12.99,
+        "description": "A story of wealth, love, and the American Dream in the 1920s."
+    },
+    {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "price": 10.50,
+        "description": "A powerful story of racial injustice and moral growth in the American South."
+    },
+    {
+        "id": 3,
+        "title": "1984",
+        "author": "George Orwell",
+        "price": 9.99,
+        "description": "A dystopian novel about totalitarianism and surveillance."
+    },
+    {
+        "id": 4,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "price": 8.75,
+        "description": "A romantic novel about the Bennett family and their quest for suitable marriages."
+    },
+    {
+        "id": 5,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "price": 14.25,
+        "description": "A fantasy novel about Bilbo Baggins' adventure to win a share of a dragon's treasure."
+    },
+    {
+        "id": 6,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "price": 11.99,
+        "description": "The first book in the Harry Potter series about a young wizard's first year at Hogwarts."
+    },
+    {
+        "id": 7,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "price": 9.25,
+        "description": "A novel about teenage rebellion and alienation."
+    },
+    {
+        "id": 8,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "price": 19.99,
+        "description": "An epic high-fantasy novel about the quest to destroy the One Ring."
+    }
+    
+]
